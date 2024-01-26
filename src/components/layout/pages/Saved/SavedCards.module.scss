@@ -1,0 +1,12 @@
+.mainSaved {
+    background-color: #bde281;
+    height: 100vh;
+}
+
+.dogs__cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+}

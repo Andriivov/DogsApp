@@ -1,0 +1,20 @@
+.header {
+    padding: 50px 0 50px 0;
+    background-color:coral;
+    font-size: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+
+    &__navigationLink {
+        color:black;
+        
+    }
+}
+
+
+.active {
+    color:white;
+}
+
